@@ -1,0 +1,74 @@
+:~/Desktop$ gcc -g num.c -o num
+:~/Desktop$ ./num
+
+----------------------------------------------
+######## Number conversion operations ########
+----------------------------------------------
+1 - Decimal to Hexadecimal(32-bit)
+2 - Decimal to Binary
+3 - Hexadecimal(32-bit) to Decimal
+4 - Binary to Decimal
+5 - Exit
+
+-------------------------------
+Enter your choice :- 1
+Enter Decimal number: 100
+Hexadecimal(32-bit) number of [100] is [64]
+###############################
+
+----------------------------------------------
+######## Number conversion operations ########
+----------------------------------------------
+1 - Decimal to Hexadecimal(32-bit)
+2 - Decimal to Binary
+3 - Hexadecimal(32-bit) to Decimal
+4 - Binary to Decimal
+5 - Exit
+
+-------------------------------
+Enter your choice :- 3
+Enter Hexadecimal(32-bit) Number : 64
+Decimal Number of [64] is [100]
+###############################
+
+----------------------------------------------
+######## Number conversion operations ########
+----------------------------------------------
+1 - Decimal to Hexadecimal(32-bit)
+2 - Decimal to Binary
+3 - Hexadecimal(32-bit) to Decimal
+4 - Binary to Decimal
+5 - Exit
+
+-------------------------------
+Enter your choice :- 2
+Enter Decimal value: 100
+Binary value of [100] is [1100100]
+###############################
+
+----------------------------------------------
+######## Number conversion operations ########
+----------------------------------------------
+1 - Decimal to Hexadecimal(32-bit)
+2 - Decimal to Binary
+3 - Hexadecimal(32-bit) to Decimal
+4 - Binary to Decimal
+5 - Exit
+
+-------------------------------
+Enter your choice :- 4
+Enter binary number: 1100100
+Decimal number of [1100100] is [decimal = 100]
+###############################
+
+----------------------------------------------
+######## Number conversion operations ########
+----------------------------------------------
+1 - Decimal to Hexadecimal(32-bit)
+2 - Decimal to Binary
+3 - Hexadecimal(32-bit) to Decimal
+4 - Binary to Decimal
+5 - Exit
+
+-------------------------------
+Enter your choice :- 
